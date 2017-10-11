@@ -266,3 +266,5 @@ defaults:
       type: trad
     values:
       layout: single
+      read_time: true
+      comments: true

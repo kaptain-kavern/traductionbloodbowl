@@ -5,7 +5,7 @@ permalink: /liens/
 excerpt: "Une liste de liens que j'ai pu collecter au grès de mes pérégrinations sur le net"
 header:
   overlay_image: http://cdn.focus-home.com/admin/games/blood_bowl_2:_legendary_edition/background/home_animate.jpg
-  caption: "image credit: [**Focus Home Interactive**](http://bloodbowl2-legendary.com/)"
+  caption: "image credit: [**Focus Home Interactive**](http://bloodbowl2-legendary.com)"
 ---
 ## Jouer en ligne
 - [Steam](https://store.steampowered.com/app/236690/Blood_Bowl_2/)
@@ -23,4 +23,7 @@ header:
 - [Glossaire rapide anglais/français](http://teamfrancebb.positifforum.com/t1118-dictionnaire-anglais-francais)
 
 ## Accessoires:
+- [Ones and Skulls](http://onesandskulls.com/) : Ce site a pour but d'analyser les lancés de dés et fournir des statistiques depuis une sauvegarde/replay de BB2
+
+### Pour le jeu plateau
 - [Geckos](https://gulix.github.io/geckos/) : Création/réalisation, en ligne, de cartes
