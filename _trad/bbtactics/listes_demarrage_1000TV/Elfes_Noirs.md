@@ -1,4 +1,70 @@
 ---
-layout: default
 title: "Elfes Noirs"
+excerpt: "Traduit depuis : [**bbtactics.com**](hhttps://bbtactics.com/tv1000-dark-elf-starting-roster)"
+header:
+  overlay_image: http://www.bloodbowl-game.com/img/game-bb2/races/darkelves/scr01.jpg
+  overlay_filter: 0.5
+  caption: "image credit: [**bloodbowl-game.com**](http://www.bloodbowl-game.com/fr/bloodbowl2/race-chaos)"
 ---
+# Présentation :  
+Dark Elf starting teams mainly have the decision on which positions to perhaps not start the team with at all. Their players are expensive but they are also good though a couple of them are also somewhat fragile. Thankfully their rerolls aren’t too expensive so spending more on better players to start means you don’t have to save up much more for an extra reroll later compared to the average cost of a new player. Previous editions of the rules saw Dark Elf teams starting with 11 Linemen so they could afford 3 rerolls and max out on the fan factor. Now no money needs to be spent on fan factor you can get the better starting positional players from the outset.
+
+## High Armour Dark Elf Starting Roster:
+
+**Quantité** | **Nom** | **Coût**      
+--------|---------|---------
+6  | Linemen | 420
+1  | Runner | 80
+4  | Blitzer | 400
+2  | Relance | 100
+**Total** |   |  **1000**
+
+This is the most often recommended starting roster for Dark Elves for a number of reasons. First of all you start with all four Blitzers getting some Block on the field straight away and they are also fairly fast and have AV8 rather than AV7. They are the key players for the team doing a lot of the heavy lifting and being flexible players. Dark Elves are the only Elven team that can have four blitzers so make the most of it and get them in at the start. Having a Runner from the start gives you that defensive problem (for the other team) of having to deal with Dump Off. Also with passing skill access you can perhaps get Leader early on to get an extra Reroll. The rest of the starting 11 is made up from Linemen to maximise the armour on the pitch to help negate early injuries. The AV7 of a Runner isn’t a problem as with only one on the team it shouldn’t be too tricky to protect him as you would do with any ball carrier. You could drop the Runner for an extra Lineman and save 10k for an apothecary, though a Dark Elf team with full positionals will only have space for 6 Lineman. Starting with 7 means eventually you will perhaps sack one or have to wait for one to get injured or die. It also means having to have an extra Lineman miniature or using a proxy in its place, though this is only an issue for tabletop players. This leaves you with enough money to get two rerolls and as mentioned a Dark Elf reroll doubled in cost isn’t much more than your average player cost. 
+
+Future purchases see you getting an Apothecary first as with nearly every other team. After that I would save up to get the Witch Elves, they are great players but their high cost makes fitting them into a starting team troublesome. If you haven’t taken Leader then you may want to get a third reroll between the Witch Elves. Lack of rerolls can be somewhat compensated by the skills you take on your players as well.
+
+## Witch Elf Dark Elf Starting Roster
+
+**Quantité** | **Nom** | **Coût**      
+--------|---------|---------
+7  | Linemen | 490
+3  | Blitzer | 300
+1  | Witch Elf | 110
+2  | Relance | 100
+**Total** |   |  **1000**
+
+A slight variation on the above roster giving you a Witch Elf to start with at the expense of a Runner and a Blitzer. The disadvantages are that you have one less Blitzer and therefore Block skill, though you may not really miss the Runner. You also have the 7 Linemen issue as mentioned before. The benefits though are that you get a player who starts with Dodge which may save rerolls and the threat of Frenzy can be great as well, especially near the side lines. You do have to be careful though, with no Block and AV7 coupled with the high cost and no Apothecary to start with, you can expect opposing teams to look at fouling at every opportunity.
+
+Purchases are the Apothecary and then the last Blitzer and then either a third reroll or the other Blitzer. This will mean having no Runner for quite a while though but I can’t see me preferring buying one over the other options, perhaps another reason to start with one as in the first example.
+
+## All Positionals Dark Elf Starting Roster:
+
+**Quantité** | **Nom** | **Coût**      
+--------|---------|---------
+4  | Linemen | 280
+2  | Runners | 160
+1  | Assassin| 90
+2  | Blitzers | 200
+2  | Witch Elf | 220
+1  | Relance | 50
+**Total** |   |  **1000**
+
+This is a somewhat risky way to start your Dark Elf team for a few reasons. You have dropped down to only two Blitzers and I recommend starting with all four. Instead of having 10 AV8 players you now only have 6 and 5 expensive players with AV7 and no Apothecary. The team also starts with only the 1 reroll as well can make games rather uncomfortable if you end up having to use it in the first turn of a half! It can be quite fun though and some opponents can get distracted by the Assassins. The other issue is that if you get two Linemen injured in a game you are going to have to put one of those positional players on the LOS at every kick off.
+
+First purchase as usual is the Apothecary and perhaps even more important to do so with those pricey AV7 players! I’d say it was important to get the last two Blitzers as soon as you can, though you do still only have one reroll. That can be negated somewhat by getting Leader and you have two Runners so that shouldn’t be an issue.
+
+## Reroll Heavy Dark Elf Starting Roster:
+
+**Quantité** | **Nom** | **Coût**      
+--------|---------|---------
+10  | Linemen | 700
+1  | Runners | 80
+4  | Relance | 200
+**Total** |   |  **980**
+
+As a throwback to older rules and because I often recommend starting with lots of rerolls there is this option of starting rosters. You will probably have to use a lot of proxy models for 10 Linemen though if playing tabletop, though people did used to do this with all the Elven sides in the old rules. The advantage of the new rules though is that you can not just start with three rerolls but four! Eleven AG4 player with 4 rerolls is still going to be a competitive team and more than capable of winning despite lack of starting skill. Whilst other teams I can recommend 4 rerolls to start, AG4 teams can get away with only 2 and you do give up on the starting skills as I mentioned. The other reason to start with more rerolls is their double cost after creation. The Dark Elf ones aren’t too costly to worry about saving up for them and with having 10 Linemen to start with you aren’t going to need 10 in the long run, so you are perhaps wasting money buying that many to start with.
+
+The purchase options are somewhat different, obviously you have to save up for six players that cost 100k+, which actually makes this option less cost effective compared to other races going reroll heavy. There can be some temptation to not get an Apothecary first as you are going to need some turnover of Linemen long term. I don’t like the idea of buying players at the start though that you actually need to die/retire and there isn’t as much incentive to save them with an Apothecary compared to if you actually need to keep the players. This starting lineup just screams bad economy to me though as stated you can still win with it!
+
+# En résumé :
+Many people will say to start with the first option and it is the one I use in any length league. It is the safest and most practical way to start and the only real drawback I can see compared to any of the other options is that you start with no Dodge. This isn’t really a problem though if you are careful with your rerolls and any of your players can get Dodge after 1 game if you score two touchdowns with the same player. Make sure anyone who gets the MVP gets a completion in their next game as well if they didn’t already have one. This gets their first skill quickly on a lot of players and the team can start to blossom really quickly.

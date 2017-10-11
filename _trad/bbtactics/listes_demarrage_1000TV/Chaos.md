@@ -1,6 +1,6 @@
 ---
 title: "Équipe du Chaos"
-excerpt: ""
+excerpt: "Traduit depuis : [**bbtactics.com**](https://bbtactics.com/tv1000-chaos-starting-roster/)"
 header:
   overlay_image: http://www.bloodbowl-game.com/img/game-bb2/races/chaos/scr01.jpg
   overlay_filter: 0.5
@@ -15,8 +15,8 @@ Les équipes du Chaos sont connus pour avoir un démarrage lent mais ont le pote
 
 **Quantité** | **Nom** | **Coût**      
 --------|---------|---------
-7  | Beastmen | 420
-4  | Chaos Warriors | 400
+7  | Hommes-Bêtes | 420
+4  | Guerriers du Chaos | 400
 3  | Relance | 180
 **Total** |   |  **1000**
 
