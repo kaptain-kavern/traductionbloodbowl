@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "dark"
 
 # Site Settings
 locale                   : "fr"
-title                    : "Bloodbowl Traduction"
+title                    : "Bloodbowl-Traduction"
 title_separator          : "-"
 github: [metadata]
 name                     : "KapTaiN KaVerN"
@@ -114,6 +114,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  reddit           : "kaptain_kavern"
   steam            : "kaptain_kavern"
   tumblr           :
   twitter          : "kaptain_kavern"
