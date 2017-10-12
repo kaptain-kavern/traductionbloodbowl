@@ -8,61 +8,62 @@ header:
 ---
 # Présentation :     
 
-Les équipes du Chaos sont connus pour avoir un démarrage lent mais ont le potentiel pour devenir des équipes formidable une fois bien développées. Le prix de leurs joueurs et leur manque de compétences essentielles au départ peux conduire à de sérieux problèmes durant les quelques premiers matches, jusqu’à ce qu'ils commencent à évoluer et acquérir des compétences.
-*Under the latest rules though they have benefited from the extra cash of not needing fan factor and have also had a price drop for their rerolls. With their lack of skills it is probably sensible to start the team with at least three rerolls as you have nothing else to fall back on when you get bad rolls. The other main decision is whether or not to start with a Minotaur on your team and there is debate about having one on the team at all.*
+Les équipes du Chaos sont connus pour avoir un démarrage lent mais ont le potentiel pour devenir des équipes formidables une fois bien développées. Le prix de leurs joueurs et leur manque de compétences essentielles au départ peut conduire à de sérieux problèmes durant les quelques premiers matches, jusqu’à ce qu'ils commencent à évoluer et acquérir des compétences. Cependant, avec la dernière version des règles (**NdT :** *l'auteur parle ici de la 5ème version -* **LRB5** *- il me semble*), ils profitent d'un peu plus d'argent (du fait de ne plus avoir à acheter de Popularité, au départ) et de Relances un peu moins onéreuses.    
+A cause de leur manque de compétence au départ, il semble judicieux de démarrer l'équipe avec au moins 3 Relances, car ce sera votre seule sécurité en cas de lancé de dés malheureux. L'autre décision importante est de décider si vous voulez démarrer avec un Minotaure dans l'équipe ou non (et il y a débats sur le fait même de ne pas en prendre du tout dans l'équipe)
 
-## Tv1000 4 Chaos Warrior Starting Roster:
+## Liste de démarrage : 4 Guerriers du Chaos
 
-**Quantité** | **Nom** | **Coût**      
+**Quantité** | **Nom** | **Coût(po)**      
 --------|---------|---------
-7  | Hommes-Bêtes | 420
-4  | Guerriers du Chaos | 400
-3  | Relance | 180
-**Total** |   |  **1000**
+7  | Hommes-Bête | 420 000
+4  | Guerriers du Chaos | 400 000
+3  | Relances | 180 000
+**Coût Total(po)** |   |  **1 000 000**
 
-*This is probably the most rounded and “safest” way to start a Chaos team. You get all fours Chaos Warriors and an adequate amount of rerolls. Having all four Chaos Warriors increases their chances of getting the MVP and skilling up, though with AG3 though don’t suffer so much from slow progression compared to other ST4 players. You do avoid the trouble of having an unreliable Minotaur as well. The roster is rounded out at a full 1 million, so you don’t have any money to bank towards getting an Apothecary.*
+C'est sûrement la liste la plus équilibrée et la plus "sure" pour démarrer une équipe du Chaos. Vous démarrez avec les 4 Guerriers du Chaos et un nombre suffisant de Relances.    
+Avoir les 4 Guerriers du Chaos dès le départ augmente leurs chances d'obtenir un titre de **Joueur du Match** et gagner des compétences; cependant avec une **Agilité** de 3, leur progression n'est pas aussi lente que les autres joueurs possédant 4 en **Force**.    
+Pour le moment, vous vous évitez également les soucis que peuvent causer un Minotaure récalcitrant.    
+Cette liste étant calibrée pour 1 000 000po, vous n'aurez plus d'argent de coté en prévision de l'achat d'un apothicaire (**NdT :** *sous-entendu, 1er achat obligatoire*).
 
+## Liste de démarrage : Minotaure
 
-
-## Tv1000 Minotaur Chaos Starting Roster:
-
-**Quantité** | **Nom** | **Coût**      
+**Quantité** | **Nom** | **Coût(po)**      
 --------|---------|---------
-9  | Beastmen | 540
-1  | Chaos Warrior | 100
-1 | Minotaur | 150
-3  | Relance | 180
-**Total** |   |  **970**
+9  | Hommes-Bête | 540 000
+1  | Guerriers du Chaos | 100 000
+1  | Minotaure | 150 000
+3  | Relances | 180 000
+**Coût Total(po)** |   |  **970 000**
 
-*This roster gets the Minotaur in from the start giving him more games to start gaining SPP, whilst also leaving you with three rerolls. It does mean though that you can only afford to start with one Chaos Warrior so the overall strength is lower. You do have the luxury of 30k banked towards an Apothecary which makes it highly likely you can get one next game. Another option is to drop the Chaos Warrior for a tenth Beastman and starting with an Apothecary, with 20k banked. This can save you a big chunk of cash if the Minotaur gets killed or seriously injured.*
+Cette liste inclut le Minotaure dès le départ, lui laissant plus de matches pour commencer à gagner des **Points de Star Player**; tout en vous laissant quand même 3 Relances. Cela signifie par contre que vous ne pouvez vous permettre d'aligner qu'un seul Guerrier du Chaos, donc globalement votre puissance d'attaque s'en retrouve diminuée.    
+Vous avez tout de même le luxe de garder 30 000po en banque pour l'achat d'un Apothicaire, vous laissant de grandes chances de l'avoir dès le prochain match.    
+Une autre possibilité est de laisser tomber le Guerrier du Chaos pour un 10ème Hommes-Bête et démarrer avec l'Apothicaire et 20 000po en banque. Ceci peux servir à garder un peu de cash au cas où le Minotaure se fait tuer ou sérieusement blesser.
 
+## Liste de démarrage : 4 Relances
 
-
-## Tv1000 Reroll Heavy Chaos Starting Roster:
-
-**Quantité** | **Nom** | **Coût**      
+**Quantité** | **Nom** | **Coût(po)**      
 --------|---------|---------
-9  | Beastmen | 540
-2  | Chaos Warrior | 200
-4  | Relance | 240
-**Total** |   |  **980**
+9  | Hommes-Bête | 540 000
+2  | Guerriers du Chaos | 200 000
+4  | Relances | 240 000
+**Coût Total(po)** |   |  **980 000**
 
 *I always like to include reroll heavy options and seeing how Chaos do rely on rerolls early in their development you can give this option some consideration. Obviously there are drawbacks and for a Chaos starting team this means only being able to afford two Chaos Warriors. Whilst your overall strength is lower you will save money saving up for more Warriors compared to rerolls and having four rerolls can speed up development of your players. You also get 20k banked towards your Apothecary, with the flexibility of horns on all the Beastmen I favour this line-up. In shorter leagues it may not be quite so effective as long term ones though.*
 
 
 
-## Tv1000 Reroll Light Chaos Starting Roster:
+## Liste de démarrage : 2 Relances
 
-**Quantité** | **Nom** | **Coût**      
+**Quantité** | **Nom** | **Coût(po)**      
 --------|---------|---------
-7  | Beastmen | 420
-3  | Chaos Warrior | 300
-1 | Minotaur | 150
-2  | Relance | 120
-**Total** |   |  **990**
+7  | Hommes-Bête | 420 000
+3  | Guerriers du Chaos | 300 000
+1  | Minotaure | 150 000
+2  | Relances | 120 000
+**Coût Total(po)** |   |  **990 000**
 
-*The last main choice is to go light on rerolls and really front load your team with all the strong players. I don’t like this choice due to the lack of core skills the team starts with, that doesn’t mean that it can’t work though. An early death before you get an Apothecary can be costly as well. There is an option to swap the Minotaur for the fourth Chaos Warrior and then you can afford to start with an Apothecary as well. Either of those options will leave you for 10k in the treasury to put towards whatever you choose to purchase next. *
+*The last main choice is to go light on rerolls and really front load your team with all the strong players. I don’t like this choice due to the lack of core skills the team starts with, that doesn’t mean that it can’t work though. An early death before you get an Apothecary can be costly as well. There is an option to swap the Minotaur for the fourth Chaos Warrior and then you can afford to start with an Apothecary as well. Either of those options will leave you for 10k in the treasury to put towards whatever you choose to purchase next.*
 
 
 # En résumé : 
-The starting roster for a Chaos team offers you a few options, and I’ve pointed out what you should consider, along with the advantages and disadvantages of each option. The other things to consider are the length of the league you are playing in and also the other races you will be facing. If you are playing in a fairly bash heavy environment, then getting more stronger players to start with could be useful for example. If you are stuck though, you can’t really go wrong with the first option.
+*The starting roster for a Chaos team offers you a few options, and I’ve pointed out what you should consider, along with the advantages and disadvantages of each option. The other things to consider are the length of the league you are playing in and also the other races you will be facing. If you are playing in a fairly bash heavy environment, then getting more stronger players to start with could be useful for example. If you are stuck though, you can’t really go wrong with the first option.*
