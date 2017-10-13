@@ -10,7 +10,7 @@ Pour la énième fois, je trouve un peu de motivation pour ré-attaquer un proje
 ## 1ère étape : [BBtactics.com](https://bbtactics.com)
 
 C'est peut-être le site le plus conseillé sur les forums anglophones, et ce depuis de nombreuses années. Donc il me paraissait normal de commencer par celui-ci ;-D   
-C'est peut-être est des plus gros aussi, donc la traduction va prendre un certains temps...
+C'est peut-être un des plus gros aussi, donc la traduction va prendre un certains temps...
 
 ### Progression
 - [0/22] TV1000 Starting Rosters // Liste de démarrage 1000VE
