@@ -38,7 +38,7 @@ Cette liste étant calibrée pour 1 000 000po, vous n'aurez plus d'argent de cot
 **Coût Total(po)** |   |  **970 000**
 
 Cette liste inclut le Minotaure dès le départ, lui laissant plus de matches pour commencer à gagner des **Points de Star Player**; tout en vous laissant quand même 3 Relances. Cela signifie par contre que vous ne pouvez vous permettre d'aligner qu'un seul Guerrier du Chaos, donc globalement votre puissance d'attaque s'en retrouve diminuée.    
-Vous avez tout de même le luxe de garder 30 000po en banque pour l'achat d'un Apothicaire, vous laissant de grandes chances de l'avoir dès le prochain match.    
+Vous avez tout de même le luxe de garder 30 000po en banque pour l'achat d'un Apothicaire, vous laissant de grandes chances de l'avoir dès le prochain match.   
 Une autre possibilité est de laisser tomber le Guerrier du Chaos pour un 10ème Hommes-Bête et démarrer avec l'Apothicaire et 20 000po en banque. Ceci peux servir à garder un peu de cash au cas où le Minotaure se fait tuer ou sérieusement blesser.
 {: .text-justify}
 
@@ -51,10 +51,11 @@ Une autre possibilité est de laisser tomber le Guerrier du Chaos pour un 10ème
 4  | Relances | 240 000
 **Coût Total(po)** |   |  **980 000**
 
-*I always like to include reroll heavy options and seeing how Chaos do rely on rerolls early in their development you can give this option some consideration. Obviously there are drawbacks and for a Chaos starting team this means only being able to afford two Chaos Warriors. Whilst your overall strength is lower you will save money saving up for more Warriors compared to rerolls and having four rerolls can speed up development of your players. You also get 20k banked towards your Apothecary, with the flexibility of horns on all the Beastmen I favour this line-up. In shorter leagues it may not be quite so effective as long term ones though.*
+J'aime bien proposer des listes avec beaucoup de Relances et étant donné que les équipes du Chaos en ont souvent besoin, particulièrement au début de leur développement, vous pourriez avoir envie d'envisager cette option.    
+Il y a évidement des inconvénients et pour une équipe du Chaos débutante cela signifie ne pouvoir aligner que 2 Guerriers du Chaos. Bien que votre puissance offensive s'en trouve diminuée, vous y gagnez à économiser pour des Guerriers comparé à des Relances et avoir 4 Relances peut accélérer le développement de vos joueurs. Vous gardez aussi 20 000po en banque pour l'achat de votre Apothicaire.     
+Je préfère cette liste, particulièrement pour la flexibilité qu'apporte le fait d'avoir Cornes sur chaque Hommes-Bête.    
+Pour les ligues de courtes durée cette liste ne sera pas aussi efficace qu'elle ne l'est pour les plus longues, cependant.
 {: .text-justify}
-
-
 
 ## Liste de démarrage : 2 Relances
 
