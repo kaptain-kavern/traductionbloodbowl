@@ -1,6 +1,6 @@
 ---
 title: "Prochaine Traduction : BBtactics.com"
-excerpt: "Recommandé pour ses listes de démarrage, ses fiches détaillées sur chaque joueur pour chaque race et ses articles développés sur chaque compétence .BBtactics.com est le site le plus conseillé sur les forums anglophones."
+excerpt: "Recommandé pour ses listes de démarrage, ses fiches détaillées sur chaque joueur pour chaque race et ses articles développés sur chaque compétence. BBtactics.com est le site le plus conseillé sur les forums anglophones."
 header:
   overlay_image: /assets/pix/bbtactics.jpg
   overlay_filter: 0.5
