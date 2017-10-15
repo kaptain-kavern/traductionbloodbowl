@@ -67,10 +67,12 @@ Pour les ligues de courtes durée cette liste ne sera pas aussi efficace qu'elle
 2  | Relances | 120 000
 **Coût Total(po)** |   |  **990 000**
 
-*The last main choice is to go light on rerolls and really front load your team with all the strong players. I don’t like this choice due to the lack of core skills the team starts with, that doesn’t mean that it can’t work though. An early death before you get an Apothecary can be costly as well. There is an option to swap the Minotaur for the fourth Chaos Warrior and then you can afford to start with an Apothecary as well. Either of those options will leave you for 10k in the treasury to put towards whatever you choose to purchase next.*
+La dernière option logique est de prendre moins de Relances et de vraiment gonfler votre équipe à bloc avec tout les joueurs costauds. Je n'aime pas cette liste en raison du manque de compétences essentielles dès le départ, mais cela ne signifie pas qu'elle ne fonctionne pas. De plus, un joueur décédé un peu trop tôt, avant que vous recrutiez votre Apothicaire, vous coûtera très cher. Il est aussi possible d'échanger le Minotaure pour le 4ème Guerrier du Chaos et, dans ce cas, démarrer avec l'Apothicaire. Dans les deux cas, il vous restera 10 000po en banque à économiser pour ce que vous aurez choisi comme prochain achat.
 {: .text-justify}
 
 
 # En résumé : 
-*The starting roster for a Chaos team offers you a few options, and I’ve pointed out what you should consider, along with the advantages and disadvantages of each option. The other things to consider are the length of the league you are playing in and also the other races you will be facing. If you are playing in a fairly bash heavy environment, then getting more stronger players to start with could be useful for example. If you are stuck though, you can’t really go wrong with the first option.*
+Une liste pour une équipe du Chaos vous laisse quelques possibilités et je viens de vous présenter les différentes options, ainsi que les forces et faiblesses de chacune.      
+Le dernier paramètre à prendre en compte est la durée de la ligue dans laquelle vous jouez et les autres races que vous allez affronter. Si vous évoluez dans un environnement plus propice à la castagne qu'au jeu de passe, il pourrait être utile de démarrer avec des joueurs plus costaud, par exemple.             
+Si vous avez un doute, vous ne pouvez pas vraiment vous tromper en prenant la première option.
 {: .text-justify}
