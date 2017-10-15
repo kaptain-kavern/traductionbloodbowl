@@ -22,7 +22,7 @@ A cause de leur manque de compétence au départ, il semble judicieux de démarr
 **Coût Total(po)** |   |  **1 000 000**
 
 C'est sûrement la liste la plus équilibrée et la plus "sure" pour démarrer une équipe du Chaos. Vous démarrez avec les 4 Guerriers du Chaos et un nombre suffisant de Relances.    
-Avoir les 4 Guerriers du Chaos dès le départ augmente leurs chances d'obtenir un titre de **Joueur du Match** et gagner des compétences; cependant avec une **Agilité** de 3, leur progression n'est pas aussi lente que les autres joueurs possédant 4 en **Force**.    
+Avoir les 4 Guerriers du Chaos dès le départ augmente leurs chances d'obtenir un titre de **Joueur du Match** et gagner des compétences; bien qu'avec une **Agilité** de 3, leur progression n'est pas aussi lente que les autres joueurs possédant 4 en **Force**.    
 Pour le moment, vous vous évitez également les soucis que peuvent causer un Minotaure récalcitrant.    
 Cette liste étant calibrée pour 1 000 000po, vous n'aurez plus d'argent de coté en prévision de l'achat d'un apothicaire (**NdT :** *sous-entendu, 1er achat obligatoire*).
 {: .text-justify}
